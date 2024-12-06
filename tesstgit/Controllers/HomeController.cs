@@ -16,6 +16,7 @@ namespace tesstgit.Controllers
         public IActionResult Index()
         {
             return View();
+            //tesst moiws 
         }
 
         public IActionResult Privacy()
